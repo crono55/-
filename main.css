@@ -1,0 +1,90 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url(back.jpg);
+   }
+  #header {
+  border-style: solid;
+border-width: 41px 23px 46px 21px;
+-moz-border-image: url(7.png) 41 23 46 21 stretch repeat;
+-webkit-border-image: url(7.png) 41 23 46 21 stretch repeat;
+-o-border-image: url(7.png) 41 23 46 21 stretch repeat;
+border-image: url(7.png) 41 23 46 21 fill stretch repeat;
+
+
+  margin-bottom: 25px; }
+  #header .header__top {
+    padding: 37px 0; }
+    #header .header__top .header__top__logo {
+      color: blue;
+	  font-size: 20px;
+      float: left; }
+    #header .header__top .header__top__menu {
+      padding-top: 15px;
+      text-align: right; }
+      #header .header__top .header__top__menu ul > li {
+        display: inline-block;
+        margin-right: 35px; }
+        #header .header__top .header__top__menu ul > li > a {
+          font-size: 20px;
+          text-decoration: none;
+          color: blue; }
+          #header .header__top .header__top__menu ul > li > a:hover {
+            border-bottom: 2px solid #333; }
+#vse {
+	display: inline-flex;
+
+
+	
+
+}
+#navigat {
+	padding: 0px;
+	float: left;
+	height: 200px;
+	width: 300px;
+}
+
+#navigat .left_menu {
+	float: left;
+	border-style: solid;
+border-width: 41px 23px 46px 21px;
+-moz-border-image: url(6.png) 41 23 46 21 stretch repeat;
+-webkit-border-image: url(6.png) 41 23 46 21 stretch repeat;
+-o-border-image: url(6.png) 41 23 46 21 stretch repeat;
+border-image: url(6.png) 41 23 46 21 fill stretch repeat;
+}
+#conten{
+	padding: 60px;
+	height: auto;
+	width: 600px;
+
+}
+#conten .content{
+
+	border-style: solid;
+	border-width: 41px 23px 46px 21px;
+-moz-border-image: url(6.png) 41 23 46 21 stretch repeat;
+-webkit-border-image: url(6.png) 41 23 46 21 stretch repeat;
+-o-border-image: url(6.png) 41 23 46 21 stretch repeat;
+border-image: url(6.png) 41 23 46 21 fill stretch repeat;
+
+}
+
+#central {
+	float: right;
+	padding: 0px;
+	height: 200px;
+	width: 300px;
+}
+#central .right_menu {
+
+	float: right;
+	border-style: solid;
+border-width: 41px 23px 46px 21px;
+-moz-border-image: url(6.png) 41 23 46 21 stretch repeat;
+-webkit-border-image: url(6.png) 41 23 46 21 stretch repeat;
+-o-border-image: url(6.png) 41 23 46 21 stretch repeat;
+border-image: url(6.png) 41 23 46 21 fill stretch repeat;
+
+}
+
