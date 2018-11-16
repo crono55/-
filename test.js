@@ -1,1 +1,1 @@
-alert ("Heloo 5555")
+alert ("Hello Дмитрий, Аня, и всех!")
