@@ -1,1 +1,1 @@
-alert ("Hello Дмитрий, Аня, и всех!")
+alert ("Hello anybody!")
